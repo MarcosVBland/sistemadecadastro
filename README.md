@@ -3,5 +3,5 @@
 
 Para rodar este projeto em sua máquina, por favor digite:
 '''
-npn stal 
+node app.js
 '''
